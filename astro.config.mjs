@@ -12,8 +12,9 @@ export default defineConfig({
 				{
 					label: 'Guides',
 					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ label: 'Guía de Ejemplo', slug: 'guides/example' },
+						{ label: 'Instalación de Node.js', slug: 'guides/instalacion' },
+						{ label: 'Primeros pasos con Node.js', slug: 'guides/primeros-pasos' },
 					],
 				},
 				{
